@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <GoPatas>Mi Página</GoPatas>
+</head>
+<body>
+    <h1>¡¿No tienes tiempo para pasear a tu mascota? 🐾
+Estoy aquí para ayudarte en Valencia. Ofrezco paseos seguros, divertidos y adaptados a cada perro, siempre con cariño y responsabilidad.
+
+Tu compañero disfrutará de rutas por zonas verdes como parques de la ciudad o rutas personalizadas, mientras tú tienes la tranquilidad de que está en buenas manos.
+
+Paseos diarios, atención personalizada y fotos para que veas lo bien que se lo pasa. 🐶
+Porque tu mascota merece lo mejor.</h1>
+    <p>Esta página fue creada con GitHub Pages</p>
+</body>
+</html>
